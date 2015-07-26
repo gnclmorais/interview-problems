@@ -34,3 +34,10 @@ Do you have a great/fun/wacky interview problem you would like to share with
 the community? Fork this project, add you challenge (following this
 [project’s guidelines](#Guidelines)), and submit a pull request! I promise to
 check it out as fast as possible and accept it. :smiley:
+
+## Todo
+- [x] Yeoman generator
+- [ ] Talk about & link yeoman generator
+- [ ] Fix yeoman generator to create the folder with the name provided
+- [ ] Check the message:  
+      `(!) #mkdir() is deprecated. Use mkdirp module instead. https://www.npmjs.com/package/mkdirp`
