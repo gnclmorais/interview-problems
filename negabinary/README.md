@@ -27,6 +27,11 @@ Assume that:
 
 Complexity:
 - expected worst-case time complexity is O(M);
-- expected worst-case space complexity is O(M), beyond input storage (not counting the storage required for input arguments).
+- expected worst-case space complexity is O(M), beyond input storage (not
+counting the storage required for input arguments).
+
+Further reading:
+- [http://haacked.com/archive/2006/05/01/negativebasenumberingsystems.aspx/](Negative Base Numbering Systems)
+- [Negative base @ Wikipedia](https://en.wikipedia.org/wiki/Negative_base)
 
 Elements of input arrays can be modified.
