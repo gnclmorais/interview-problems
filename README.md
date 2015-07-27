@@ -36,7 +36,7 @@ the community? Fork this project, add you challenge (following this
 check it out as fast as possible and accept it. :smiley:
 
 ## Todo
-- [x] Yeoman generator
+- [x] [yeoman generator](https://github.com/gnclmorais/generator-interview-problems)
 - [ ] Talk about & link yeoman generator
 - [ ] Fix yeoman generator to create the folder with the name provided
 - [ ] Check the message:  
