@@ -39,5 +39,6 @@ check it out as fast as possible and accept it. :smiley:
 - [x] [yeoman generator](https://github.com/gnclmorais/generator-interview-problems)
 - [ ] Talk about & link yeoman generator
 - [ ] Fix yeoman generator to create the folder with the name provided
+- [ ] Add the generator GitHub address as dependency
 - [ ] Check the message:  
       `(!) #mkdir() is deprecated. Use mkdirp module instead. https://www.npmjs.com/package/mkdirp`
