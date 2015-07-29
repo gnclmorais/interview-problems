@@ -1,0 +1,30 @@
+{
+  "name": "interview-problems",
+  "version": "1.0.0",
+  "description": "Collection of developer interview problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gnclmorais/interview-problems.git"
+  },
+  "keywords": [
+    "interview",
+    "problem",
+    "test",
+    "code",
+    "challenge",
+    "logic"
+  ],
+  "author": "Gonçalo Morais (gnclmorais@gmail.com)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/gnclmorais/interview-problems/issues"
+  },
+  "dependencies": {
+    "generator-interview-problems": "git@github.com:gnclmorais/generator-interview-problems.git"
+  },
+  "homepage": "https://github.com/gnclmorais/interview-problems"
+}
