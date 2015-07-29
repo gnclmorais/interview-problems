@@ -24,7 +24,7 @@
     "url": "https://github.com/gnclmorais/interview-problems/issues"
   },
   "dependencies": {
-    "generator-interview-problems": "git@github.com:gnclmorais/generator-interview-problems.git"
+    "generator-generator-interview-problems": "git+https://gnclmorais@github.com/gnclmorais/generator-interview-problems.git#81233996a25e149e67f7349323b11d5dd0b4893f"
   },
   "homepage": "https://github.com/gnclmorais/interview-problems"
 }
